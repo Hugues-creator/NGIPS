@@ -112,6 +112,8 @@ systemctl start elasticsearch.service
 systemctl start kibana.service
 ```
 
+NB: Consultez les versions officielles de la suite ELK, les versions changent régulièrement. 
+
 Kibana devient accessible via HTTPS à l'adresse `https://<IP_DU_SERVEUR>:5601`.
 
 ### 4. Winlogbeat (sur les postes Windows)
