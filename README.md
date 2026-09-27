@@ -1,4 +1,4 @@
-# NGIPS
+# NGIPS - Mise en place d'un NGIPS
 # 🛡️ NGIPS — pfSense + Snort + ELK Stack
 
 Solution de prévention d'intrusion de nouvelle génération (NGIPS), déployée en environnement virtuel (GNS3 / VMware). Elle combine **pfSense** et **Snort** pour le filtrage, la détection et le blocage actif des menaces, associés à la **suite ELK** pour la centralisation et la visualisation des journaux de sécurité.
